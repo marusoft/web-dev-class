@@ -26,7 +26,8 @@
 
 
 ### Demo link
-[my-app-url](example.com)
+[my-app-url](https://marusoft.github.io/web-dev-class/)
+
 
 ### Author
 - Alimi Kehinde
